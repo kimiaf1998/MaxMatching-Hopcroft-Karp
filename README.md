@@ -3,13 +3,13 @@
 
 Java graphical implementation of Max Matching using Hopcroft-Karp algorithm
 
-Definition
+## Definition
 
 
 A maximal matching is a matching M of a graph G where every edge in G has a non-empty intersection with at least one edge in M.
 A maximum matching is a matching M of graph G that no two edges have the same vertex (matching part) and contains the maximum possible number of edges (maximum part).
 
-Implementation
+## Implementation
 
 
 
