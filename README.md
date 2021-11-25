@@ -20,9 +20,14 @@ A maximum matching is a matching M of graph G that no two edges have the same ve
 
 
 * Java version 1.8
-* Netbeans IDE 
+* NetBeans IDE 
 
 
-## Setup
+## How to run
+
+
+* Clone the repository
+* Extract in a directory
+* Open the project in NetBeans
 
 
