@@ -15,11 +15,14 @@ A maximum matching is a matching M of graph G that no two edges have the same ve
 
 <img src="https://user-images.githubusercontent.com/47594854/143388285-915f7b70-7034-4677-9b0b-83737a187bbb.png" width="300">
 
-## Implementation
+
+## Requirements
 
 
+* Java version 1.8
+* Netbeans IDE 
 
-1) Initialize Maximal Matching M as empty
-2) While there exists an Augmenting Path p
-     Remove matching edges of p from M and add not-matching edges of p to M
-3) Display matching M on the primary stage
+
+## Setup
+
+
