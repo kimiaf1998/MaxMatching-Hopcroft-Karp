@@ -23,7 +23,7 @@ A maximum matching is a matching M of graph G that no two edges have the same ve
 * NetBeans IDE 
 
 
-## How to run
+## How To Run
 
 
 * Clone the repository
