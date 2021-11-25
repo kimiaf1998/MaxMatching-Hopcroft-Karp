@@ -19,7 +19,7 @@ A maximum matching is a matching M of graph G that no two edges have the same ve
 ## Requirements
 
 
-* Java version 1.8
+* Java 1.8
 * NetBeans IDE 
 
 
@@ -29,5 +29,6 @@ A maximum matching is a matching M of graph G that no two edges have the same ve
 * Clone the repository
 * Extract in a directory
 * Open the project in NetBeans
+* Click the run button
 
 
