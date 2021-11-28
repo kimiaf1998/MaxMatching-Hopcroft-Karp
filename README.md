@@ -30,7 +30,7 @@ A maximum matching is a matching M of graph G that no two edges have the same ve
 * Extract in a directory
 * Open the project in NetBeans
 * Click the run button
-* Draw ypur custom bipartite grahp using group0 and group1  
+* Draw your custom bipartite graph using group 0 and group 1 buttons
 * Click the solve button to see the maximum matching graph
 
 
